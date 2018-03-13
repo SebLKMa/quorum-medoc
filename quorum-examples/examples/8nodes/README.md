@@ -1,11 +1,15 @@
 # 8 nodes
 
-Following the same steps from 7nodes, with configure the 8th node from scratch.
+Following the same steps from 7nodes, we configure the 8th node from scratch.
 
 See:
+
 https://github.com/jpmorganchase/quorum/issues/48
+
 https://github.com/jpmorganchase/quorum/issues/153
+
 https://github.com/jpmorganchase/quorum/blob/master/docs/running.md#setup-bootnode
+
 https://ethereum.stackexchange.com/questions/30644/quorum-generating-public-key-for-a-given-address
 
 ## The 8th node
