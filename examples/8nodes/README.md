@@ -37,8 +37,10 @@ $ constellation-node --generatekeys=tm8
 
 Lock key pair tm8 with password [none]: 
 user1@ubuntu:~/dev/quorum-examples/examples/8nodes/keys$ ls -l tm8*
+```sh
 -rw------- 1 user1 user1 83 Mar 12 00:28 tm8.key
 -rw-rw-r-- 1 user1 user1 44 Mar 12 00:28 tm8.pub
+```
 
 ### Update script file raft-init.sh
 Append node 8 to raft-init.sh :
